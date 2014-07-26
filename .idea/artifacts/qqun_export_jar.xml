@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="qqun_export:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="root">
+      <element id="archive" name="qqun_export.jar">
+        <element id="module-output" name="qqun_export" />
+      </element>
+      <element id="library" level="project" name="jdbc" />
+    </root>
+  </artifact>
+</component>
